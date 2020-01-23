@@ -13,4 +13,4 @@ This repository contains all the tasks assigned to me during the internship
 20 jan 2020 - penetration testing, database testing types,methods, intro to private blockchain, DLS and corda
 21 jan 2020 - ETL testing, pen testing tools,methods,examples, smoke and sanity testing
 22 jan 2020 - endurance, scalability, portability, baseline testing, REST and SOAP web services, service mocking basics.
-23 jan 2020 - 
+23 jan 2020 - intro to automation testing,merits,demerits. intro to selenium - components,features,installation.

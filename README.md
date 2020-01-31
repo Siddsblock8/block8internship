@@ -19,4 +19,4 @@ This repository contains all the tasks assigned to me during the internship
 28 jan 2020 - Researched on Smart contracts concepts and testing, detailed review of test scenarios and cases for catalog application.
 29 jan 2020 - Worked on presentation on "Smart contract testing", discussion on use case designing for a vocabulory checker application.
 30 jan 2020 - Gave presentation on "Smart contract testing",  designing Test scenarios for scheduler app. 
-31 jan 2020 - 
+31 jan 2020 - ux,usability,compliance testing, designing Test scenarios and test cases for band scheduler app, 

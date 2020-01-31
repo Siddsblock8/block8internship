@@ -14,7 +14,7 @@ This repository contains all the tasks assigned to me during the internship
 21 jan 2020 - ETL testing, pen testing tools,methods,examples, smoke and sanity testing
 22 jan 2020 - endurance, scalability, portability, baseline testing, REST and SOAP web services, service mocking basics.
 23 jan 2020 - intro to automation testing,merits,demerits. intro to selenium - components,features,installation.
-24 jan 2020 - 
+24 jan 2020 - Studied testing techniques chapter from ISTQB syllabus pdf
 27 jan 2020 - Designed test scenarios and cases for a book catalog application
 28 jan 2020 - Researched on Smart contracts concepts and testing, detailed review of test scenarios and cases for catalog application.
 29 jan 2020 - Worked on presentation on "Smart contract testing", discussion on use case designing for a vocabulory checker application.
